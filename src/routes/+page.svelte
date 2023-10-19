@@ -21,7 +21,7 @@
         p {
             font-size: xx-large;
             font-weight: bolder;
-            color: rgba(154, 12, 12, 0.529);
+            color: rgba(83, 25, 198, 0.697);
         }
 
     </style>
