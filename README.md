@@ -2,7 +2,7 @@ för att köra:
 
 npm run dev
 
-för att installera (oftast en gång) npm install
+för att installera: npm install
 
 arbetsflöde:
 
