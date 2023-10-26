@@ -1,4 +1,4 @@
-<h1>Min första hemsida</h1>+
-<p>Vi erbjuder en kakmix för alla</p>
+<h1>Sida 2</h1>
+<p>Intruktioner</p>
 <br>
-<p>Alla ska kunna baka!</p>
+<p>Bilder:</p>

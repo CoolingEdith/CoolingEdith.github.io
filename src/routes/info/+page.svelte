@@ -1,4 +1,4 @@
-<h1>Min första hemsida är fet</h1>+
-<p>Vi erbjuder en kakmix för alla</p>
+<h1>Sida 3</h1>
+<p>Om oss</p>
 <br>
 <p>Alla ska kunna baka!</p>
