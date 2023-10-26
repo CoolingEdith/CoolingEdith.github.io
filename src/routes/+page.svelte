@@ -1,13 +1,16 @@
-	<p>Sida 1</p>
-    <h1>MyMix Uf</h1>
-	<h1>Vi erbjuder en högkvalitativ kakmix till ett bra pris</h1>
+	<h1>Min första hemsida är fett!!!!!! coolaste!!!!!!</h1>
+	<h1>Min!!!!½!!! första hemsida är fett coolaste!!!!!!</h1>
+	<p>Vi erbjuder en kakmix för alla</p>
+	<br>
+	<p>Alla ska kunna baka!</p>
     <br>
-	<p>Alla ska kunna baka</p>
 
+    
 
+   
 	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYaGaToc7mtXzm5ORlqP-ExDzuOMLUJVCHw&usqp=CAU">
 
-	<a target="_blank" href="https://www.instagram.com/mymixuf/">INSTAGRAM</a>
+	<a target="_blank" href="https://www.instagram.com/mymixuf/">Våran instagram</a>
 
 
     <style>
@@ -19,7 +22,7 @@
         p {
             font-size: xx-large;
             font-weight: bolder;
-            color: rgba(66, 115, 195, 0.992);
+            color: rgba(83, 25, 198, 0.666);
         }
 
     </style>
