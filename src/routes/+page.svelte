@@ -1,5 +1,5 @@
-	<h1>Min första hemsida är fett coolaste</h1>
-	<h1>Min första hemsida är fett coolaste</h1>
+	<h1>Min första hemsida är fett!!!!!! coolaste!!!!!!</h1>
+	<h1>Min!!!!½!!! första hemsida är fett coolaste!!!!!!</h1>
 	<p>Vi erbjuder en kakmix för alla</p>
 	<br>
 	<p>Alla ska kunna baka!</p>
