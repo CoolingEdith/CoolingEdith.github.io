@@ -4,37 +4,6 @@
 <br />
 <p>Alla ska kunna baka!</p>
 <br />
-
-
-<ul>
-    <li>
-      <h2>Chokladkaka</h2>
-      <p>En klassisk chokladkaka med mjölkchoklad och mörk choklad.</p>
-      <ul>
-        <li>200 g mjölkchoklad</li>
-        <li>100 g mörk choklad</li>
-        <li>150 g smör</li>
-        <li>150 g socker</li>
-        <li>3 ägg</li>
-        <li>150 g vetemjöl</li>
-        <li>1 tsk bakpulver</li>
-        <li>1 krm salt</li>
-      </ul>
-    </li>
-    <li>
-      <h2>Vaniljcupcakes</h2>
-      <p>Söta och fluffiga cupcakes med vaniljsmak.</p>
-      <ul>
-        <li>150 g smör</li>
-        <li>150 g socker</li>
-        <li>3 ägg</li>
-        <li>150 g vetemjöl</li>
-        <li>1 tsk bakpulver</li>
-        <li>1 tsk vaniljsocker</li>
-        <li>1 dl mjölk</li>
-      </ul>
-    </li>
-  </ul>
   
 
 <img
