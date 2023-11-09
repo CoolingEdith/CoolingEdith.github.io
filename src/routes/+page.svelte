@@ -25,6 +25,6 @@
   p {
     font-size: xx-large;
     font-weight: bolder;
-    color: rgba(83, 25, 198, 0.666);
+    color: rgb(255, 255, 255);
   }
 </style>
