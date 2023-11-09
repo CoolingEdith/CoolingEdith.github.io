@@ -46,7 +46,7 @@
 <style>
   h1 {
     color: black;
-    font-size: 50px;
+    font-size: 20px;
   }
 
     video
