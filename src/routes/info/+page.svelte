@@ -14,12 +14,12 @@
           /></svelte:fragment
         >
         <svelte:fragment slot="summary"
-          ><p class="font-bold">What is Día de los Muertos?</p></svelte:fragment
+          ><p class="font-bold">Vad är MyMix UF?</p></svelte:fragment
         >
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
           <p>
-          While Halloween and Day of the Dead occur nearly in tandem and share similar customs (candy, face painting, and community gathering), the two are not related. Halloween has ancient Celtic roots, while Day of the Dead has its own origins that date back to the Indigenous people of Mexico and Central America.
+          MyMix UF är ett UF företag som fokuserar på att ta fram en kakmix som ska göra det lätt för alla att kunna baka oavsett vem du är eller var du är.
         </p>
         </svelte:fragment>
       </AccordionItem>
@@ -30,12 +30,12 @@
           /></svelte:fragment
         >
         <svelte:fragment slot="summary"
-          ><p class="font-bold">When did it begin?</p></svelte:fragment
+          ><p class="font-bold">Vilka är vi som har MyMix UF?</p></svelte:fragment
         >
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
           <p>
-          Roughly 3000 years ago, amongst the Aztec, Toltec, and Mayans, death and the dead were seen as a natural part of life that should be honored and celebrated, rather than mourned. In particular, the Nahua people of central Mexico believed the deceased traveled on a years-long journey to Chicunamictlán, the Land of the Dead. The living would provide supplies, such as food and water to aid them on the trek. This practice inspired the modern tradition of creating altars —known as ofrendas— at their homes, in addition to leaving offerings at the gravesites of loved ones.
+            
         </p>
         </svelte:fragment>
       </AccordionItem>

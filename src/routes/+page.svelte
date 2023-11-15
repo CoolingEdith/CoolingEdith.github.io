@@ -1,30 +1,26 @@
-<h1>Min första hemsida är fett!!!!!! coolaste!!!!!!</h1>
+<br>
+<h1>Såhär gör du:</h1><br>
+
 <p>Vi erbjuder en kakmix för alla</p>
-<br />
-<p>Alla ska kunna baka!</p>
-<br />
   
 
-<img
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEYaGaToc7mtXzm5ORlqP-ExDzuOMLUJVCHw&usqp=CAU"
-/>
 
-<a target="_blank" href="https://www.instagram.com/mymixuf/">Våran instagram</a>
+
+
 
 <style>
   h1 {
     color: black;
-    font-size: 20px;
+    font-size: xx-large;
   }
 
-    video
-    {
-        z-index: 10000;
-    }
-
   p {
-    font-size: xx-large;
+    font-size: 20px;
     font-weight: bolder;
     color: rgb(255, 255, 255);
   }
+
 </style>
+
+
+<a target="_blank" href="https://www.instagram.com/mymixuf/">Våran instagram</a>
