@@ -31,8 +31,8 @@
         <strong class="text-xl uppercase">My mix UF</strong>
       </svelte:fragment>
       <svelte:fragment slot="trail">
-        <a class="btn btn-sm variant-ghost-surface" href="/"> Hem </a>
-        <a class="btn btn-sm variant-ghost-surface" href="/recept"> Recept </a>
+        <a class="btn btn-sm variant-ghost-surface" href="/"> Recept </a>
+        <a class="btn btn-sm variant-ghost-surface" href="/recept"> Instruktioner </a>
         <a class="btn btn-sm variant-ghost-surface" href="/order"> Beställ </a>
 
         <a class="btn btn-sm variant-ghost-surface" href="/info"> Om oss </a>

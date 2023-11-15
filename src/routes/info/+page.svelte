@@ -19,7 +19,8 @@
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
           <p>
-          MyMix UF är ett UF företag som fokuserar på att ta fram en kakmix som ska göra det lätt för alla att kunna baka oavsett vem du är eller var du är.
+          MyMix UF är ett UF-företag som tagit fram en kakmix med fokus på att det ska vara lätt för alla att kunna
+         baka oavsett vem du är eller var du är. Vårt mål är att alla ska kunna baka!
         </p>
         </svelte:fragment>
       </AccordionItem>
@@ -30,12 +31,16 @@
           /></svelte:fragment
         >
         <svelte:fragment slot="summary"
-          ><p class="font-bold">Vilka är vi som har MyMix UF?</p></svelte:fragment
+          ><p class="font-bold">Vilka är vi?</p></svelte:fragment
         >
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
           <p>
-            
+            Vi är 4 elever från Umeå Elitidrottsgymnasium:<br>
+            Emmy Erlandsson - Prduktansvarig, marknadsförare<br>
+            Edith Lindström - Webbmaster, marknadsförare<br>
+            Gustav Ydreborg - Webbmaster<br>
+            Gustav Ekros - Ekonomiansvarig
         </p>
         </svelte:fragment>
       </AccordionItem>
@@ -46,12 +51,12 @@
           /></svelte:fragment
         >
         <svelte:fragment slot="summary"
-          ><p class="font-bold">When is it celebrated?</p></svelte:fragment
+          ><p class="font-bold">Hur länge säljer vi?</p></svelte:fragment
         >
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
           <p>
-          Once the Spanish colonized Mexico in the 16th century, their own Catholic views on the dead influenced Mexican customs. Día de los Muertos was originally celebrated in the summer months. The holiday came to fall on November 1 and November 2 to align with All Saints Day and All Souls Day.
+          Vi startade vår försäljning 26-11-23 och kommer sälja till 31-05-24
         </p>
         </svelte:fragment>
       </AccordionItem>
@@ -62,15 +67,19 @@
           /></svelte:fragment
         >
         <svelte:fragment slot="summary"
-          ><p class="font-bold">What are ofrendas?</p></svelte:fragment
+          ><p class="font-bold">Vad innehåller kakmixen?</p></svelte:fragment
         >
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
           <p>
-          To beckon spirits back into the Land of the Living for the festivities, revelers create makeshift altars, or ofrendas, at their homes and at the gravesites of their deceased loved ones. Families gather at the site to eat, tell stories, and even clean the graves.
+          Innehållsförteckning: <br>
+          Socker, farinsocker, vetemjöl, bikarbonat, choklad<br>
+          Chokladens ingridienser "www.lyckasmedmat.se": <br>
+          Kakaomassa, socker, kakaosmör,emulgeringsmedel:SOJALECITIN, naturlig vaniljsmak. Kosher. Kan innhålla MJÖLK.
         </p>
         </svelte:fragment>
       </AccordionItem>
     </Accordion>
   </div>
 </div>
+
