@@ -9,17 +9,13 @@
 
 
 
-
-
 <style>
   title {
     color: black;
     font-size: xx-large;
   }
 
-  body{
-    font-size: xx-large;
-  }
+ 
 
   p {
     font-size: 20px;
