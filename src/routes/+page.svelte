@@ -9,13 +9,17 @@
 
 
 <body>
-  <img src=""/>
+  <img src="c:\Users\gusydr\Downloads\UF-kyl.png"/>
 </body>
 
 
 <style>
-  h1 {
+  title {
     color: black;
+    font-size: xx-large;
+  }
+
+  body{
     font-size: xx-large;
   }
 
