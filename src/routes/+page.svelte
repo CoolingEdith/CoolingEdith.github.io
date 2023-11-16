@@ -8,10 +8,6 @@
   
 
 
-<body>
-  <img src="c:\Users\gusydr\Downloads\UF-kyl.png"/>
-</body>
-
 
 <style>
   title {
@@ -19,9 +15,7 @@
     font-size: xx-large;
   }
 
-  body{
-    font-size: xx-large;
-  }
+ 
 
   p {
     font-size: 20px;
