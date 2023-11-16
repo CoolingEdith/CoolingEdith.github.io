@@ -8,9 +8,7 @@
   
 
 
-<body>
-  <img src="c:\Users\gusydr\Downloads\UF-kyl.png"/>
-</body>
+
 
 
 <style>
