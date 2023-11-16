@@ -23,3 +23,14 @@ https://www.builder.io/m/svelte här kan ni få komponenter och stylad tailwind
 https://www.figma.com/ här kan ni designa och även använda tillsammans med builder
 
 https://www.builder.io/blog/figma-to-code-visual-copilot se ovan.
+
+
+# För att publicera ändringar till github
+
+npm run build
+
+(se till att det fungerar och blev grönt )
+
+pusha (sync?) till git
+
+Klart!
