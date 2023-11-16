@@ -34,3 +34,5 @@ npm run build
 pusha (sync?) till git
 
 Klart!
+
+# För att lägga till bilder
