@@ -1,6 +1,4 @@
-<title>
-  MyMixUF.se
-</title>
+
 <br>
 <h1>Såhär gör du:</h1><br>
 
@@ -19,10 +17,7 @@
 
 
 <style>
-  title {
-    color: black;
-    font-size: xx-large;
-  }
+
 
  
 
@@ -33,6 +28,3 @@
   }
 
 </style>
-
-
-<a target="_blank" href="https://www.instagram.com/mymixuf/">Våran instagram</a>

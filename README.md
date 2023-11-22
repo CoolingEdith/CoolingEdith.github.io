@@ -36,3 +36,8 @@ pusha (sync?) till git
 Klart!
 
 # För att lägga till bilder
+
+
+    font-size: 20px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
