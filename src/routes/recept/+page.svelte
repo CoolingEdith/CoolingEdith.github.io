@@ -19,7 +19,7 @@
 
 <section class="p-10 grid grid-cols-2 md:grid-cols-4 gap-2">
   {#each images as imageGroup}
-    <div class="grid gap-4">
+    <div class="grid gap-40">
       {#each imageGroup as imgUrl}
         <div>
           <img class="h-auto max-w-full rounded-lg" src={imgUrl} alt="" />
@@ -32,11 +32,14 @@
 <style>
   img {
     transition: all 0.2s;
+    transform: scale(1.2);
   }
 
   img:hover {
-    transform: scale(1.04);
+    transform: scale(1.23);
   }
+
+
 
   h1 {
     color: rgb(0, 174, 254);
