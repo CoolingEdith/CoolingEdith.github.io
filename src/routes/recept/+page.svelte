@@ -36,6 +36,6 @@
   }
 
   img:hover {
-    transform: scale(1.05);
+    transform: scale(1.04);
   }
 </style>
