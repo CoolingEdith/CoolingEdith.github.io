@@ -41,3 +41,9 @@ Klart!
     font-size: 20px;
     font-weight: bolder;
     color: rgb(255, 255, 255);
+
+Fråga william:
+Mobilvänlig
+Error?
+Ut på internet
+QR-kod
