@@ -3,16 +3,6 @@
 <script lang="ts">
   const images = [
     [
-      "UF-smör.png",
-      "UF-mixen.png",
-      "UF-vatten.png",
-      "UF-rörihop.png",
-      "UF-kyl.png",
-      "UF-ugn2.png",
-      "UF-rulla.png",
-      "UF-plåt.png",
-      "UF-ugn.png"
-    ],
 
   ];
   
