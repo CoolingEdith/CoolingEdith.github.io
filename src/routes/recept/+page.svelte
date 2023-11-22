@@ -1,8 +1,8 @@
 <script lang="ts">
   const images = [
     [
-      "UF-kyl.png",
       "UF-mixen.png",
+      "UF-kyl.png",
       "UF-plåt.png",
     ],
     [
