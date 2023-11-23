@@ -7,7 +7,7 @@
       "UF-smör.png",
       "UF-mixen.png",
       "UF-vatten.png",
-      "UF-blanda.png",
+      "UF-rörihop.png",
       "UF-kyl.png",
       "UF-ugn2.png",
       "UF-rulla.png",
@@ -33,7 +33,6 @@
   img {
     transition: all 0.2s;
     transform: scale(1.2);
-
   }
 
   img:hover {
