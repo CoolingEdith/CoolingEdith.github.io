@@ -5,12 +5,6 @@
 <h1>Såhär gör du:</h1><br>
 
 <p>Vi erbjuder en kakmix för alla</p>
-  
-
-
-<body>
-  <img src=""/>
-</body>
 
 
 <style>

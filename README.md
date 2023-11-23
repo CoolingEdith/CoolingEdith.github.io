@@ -46,5 +46,3 @@ Fråga william:
 Error?
 Ut på internet
 QR-kod
-Mobilvänlig
-
