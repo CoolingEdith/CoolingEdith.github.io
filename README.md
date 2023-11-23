@@ -45,5 +45,4 @@ Klart!
 Fråga william:
 Mobilvänlig
 Error?
-Ut på internet
-QR-kod
+
