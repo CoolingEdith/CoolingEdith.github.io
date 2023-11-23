@@ -93,7 +93,8 @@
           <p>
             <a target="_blank" href="https://www.instagram.com/mymixuf/">Instagram: @mymixuf</a> <br>
             <a target="_blank" href="https://www.tiktok.com/@mymixuf?ug_source=op.auth&ug_term=Linktr.ee&utm_source=awyc6vc625ejxp86&utm_campaign=tt4d_profile_link&_r=1">Tiktok: @mymixuf</a>
-        </p>
+            <br>Mail: mymixuf@hotmail.com
+          </p>
         </svelte:fragment>
       </AccordionItem>
     </Accordion>

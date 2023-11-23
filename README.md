@@ -43,7 +43,8 @@ Klart!
     color: rgb(255, 255, 255);
 
 Fråga william:
-Mobilvänlig
 Error?
 Ut på internet
 QR-kod
+Mobilvänlig
+
