@@ -12,7 +12,7 @@
       "UF-6.png",
       "UF-7.png",
       "UF-8.png",
-      "UF-9.png"
+      "UF-9.png",
     ]
   ]
 </script>
