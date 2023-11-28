@@ -4,15 +4,15 @@
 <script lang="ts">
   const images = [
     [
-      "UF-smör.png",
-      "UF-mixen.png",
-      "UF-vatten.png",
-      "UF-rörihop.png",
-      "UF-kyl.png",
-      "UF-ugn2.png",
-      "UF-rulla.png",
-      "UF-plåt.png",
-      "UF-ugn.png",
+      "UF-1.png",
+      "UF-2.png",
+      "UF-3.png",
+      "UF-4.png",
+      "UF-5.png",
+      "UF-6.png",
+      "UF-7.png",
+      "UF-8.png",
+      "UF-9.png"
     ]
   ]
 </script>
