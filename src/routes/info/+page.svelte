@@ -72,9 +72,9 @@
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
           <p>
-          Innehållsförteckning: <br>
-          Socker, farinsocker, vetemjöl, bikarbonat, choklad<br>
-          Chokladens ingridienser "www.lyckasmedmat.se": <br>
+          Ingridienser: <br>
+          Vetemjöl, Farinsocker, Choklad*, Strösocker, Vaniljsocker, Majsstärkelse, Bikarbonat<br>
+          *Chokladens ingridienser "www.lyckasmedmat.se": <br>
           Kakaomassa, socker, kakaosmör,emulgeringsmedel:SOJALECITIN, naturlig vaniljsmak. Kosher. Kan innhålla MJÖLK.
         </p>
         </svelte:fragment>
