@@ -3,7 +3,7 @@
 </script>
 
 <div
-  class="w-full p-60 flex flex-col items-center content-center justify-center gap-20"
+  class="w-full p-60 flex flex-col items-center content-center justify-center gap-20 width-100%"
 >
   <div class="w-full card p-4 text-token">
     <Accordion autocollapse>
