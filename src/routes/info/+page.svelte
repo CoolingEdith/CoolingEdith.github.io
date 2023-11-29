@@ -3,7 +3,7 @@
 </script>
 
 <div
-  class="w-full p-60 flex flex-col items-center content-center justify-center gap-20 width-100%"
+  class="w-full p-60 flex flex-col items-center content-center justify-center gap-20"
 >
   <div class="w-full card p-4 text-token">
     <Accordion autocollapse>
@@ -100,5 +100,3 @@
     </Accordion>
   </div>
 </div>
-
-<canvas id="myCanvas" width=100% height="200" style="border:1px solid"></canvas>
