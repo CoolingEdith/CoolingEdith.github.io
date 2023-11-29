@@ -40,3 +40,5 @@
   <!-- Page Route Content -->
   <slot />
 </AppShell>
+
+<canvas id="myCanvas" width=100% height="200" style="border:1px solid"></canvas>
