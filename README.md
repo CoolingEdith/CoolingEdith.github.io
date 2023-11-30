@@ -50,6 +50,9 @@ QR-kod
 
 länk in till vår webbsida: https://mymixuf.github.io/
 
+grid colls ändrat till 50. innan 2 
+<!--<section class="p-5 grid grid-cols-50 md:grid-cols-3 gap-10">
+
 <!--<br>
 <h1>Såhär gör du:</h1><br>
 

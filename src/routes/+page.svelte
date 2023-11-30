@@ -1,5 +1,5 @@
 <br>
-<h1>Såhär gör du:</h1><br>
+<h1>Såhär gör du:</h1><br><br>
 
 <script lang="ts">
   const images = [
@@ -17,7 +17,7 @@
   ]
 </script>
 
-<section class="p-10 grid grid-cols-2 md:grid-cols-4 gap-2">
+<section class="p-5 grid grid-cols-50 md:grid-cols-3 gap-10">
   {#each images as imageGroup}
     <div class="grid gap-40">
       {#each imageGroup as imgUrl}
