@@ -32,11 +32,11 @@
 <style>
   img {
     transition: all 0.2s;
-    transform: scale(1.2);
+    transform: scale(1.0);
   }
 
   img:hover {
-    transform: scale(1.23);
+    transform: scale(1.0);
   }
 
 
