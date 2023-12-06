@@ -2,6 +2,8 @@
   import { Accordion, AccordionItem } from "@skeletonlabs/skeleton";
 </script>
 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <div
   class="w-full p-60 flex flex-col items-center content-center justify-center gap-20"
 >
