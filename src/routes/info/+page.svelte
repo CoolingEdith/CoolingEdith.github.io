@@ -39,7 +39,7 @@
           <!-- prettier-ignore -->
           <p>
             Vi är 4 elever från Umeå Elitidrottsgymnasium:<br>
-            Emmy Erlandsson - Prduktansvarig, marknadsförare<br>
+            Emmy Erlandsson - Produktansvarig, marknadsförare<br>
             Edith Lindström - Webbmaster, marknadsförare<br>
             Gustav Ydreborg - Webbmaster<br>
             Gustav Ekros - Ekonomiansvarig
