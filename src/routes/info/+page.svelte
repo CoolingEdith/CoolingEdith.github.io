@@ -5,7 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <div
-  class="w-full p-60 flex flex-col items-center content-center justify-center gap-20"
+id="hej"
+  class="w-full flex flex-col items-center content-center justify-center gap-20"
 >
   <div class="w-full card p-4 text-token">
     <Accordion autocollapse>
@@ -73,12 +74,16 @@
         >
         <svelte:fragment slot="content">
           <!-- prettier-ignore -->
-          <p>
-          Ingridienser: <br>
-          Vetemjöl, Farinsocker, Choklad*, Strösocker, Vaniljsocker, Majsstärkelse, Bikarbonat<br>
-          *Chokladens ingridienser "www.lyckasmedmat.se": <br>
-          Kakaomassa, socker, kakaosmör,emulgeringsmedel:SOJALECITIN, naturlig vaniljsmak. Kosher. Kan innhålla MJÖLK.
-        </p>
+            <ul>
+                <li>Vetemjöl</li>
+                <li>Farinsocker</li>
+                <li>Choklad* (Kakaomassa, socker, kakaosmör, emulgeringsmedel: SOJALECITIN, naturlig vaniljsmak. Kosher. Kan innehålla MJÖLK.)</li>
+                <li>Strösocker</li>
+                <li>Vaniljsocker</li>
+                <li>Majsstärkelse</li>
+                <li>Bikarbonat</li>
+            </ul>
+        
         </svelte:fragment>
       </AccordionItem>
       <AccordionItem>
@@ -102,3 +107,9 @@
     </Accordion>
   </div>
 </div>
+
+<style>
+  #hej {
+    padding: 10%;
+  }
+</style>
