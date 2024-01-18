@@ -8,7 +8,7 @@
       "UF-2.png",
       "UF-3.png",
       "UF-4.png",
-      "UF-5.png",
+      "Kyl2.png",
       "UF-6.png",
       "UF-7.png",
       "UF-8.png",
